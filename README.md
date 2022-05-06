@@ -58,7 +58,10 @@ https://codepen.io/rasel1
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://RaseL.com)
+
+➡️ [JavaScript Primitive vs. Reference Values](https://javascript-refresh.vercel.app/javaScript-primitive-vs-reference-values)
+➡️ [JWhat is Go](https://javascript-refresh.vercel.app/golang/what-is-go)
+➡️ [more blog posts...](https://javascript-refresh.vercel.app)
 
 ---
 
