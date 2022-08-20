@@ -75,8 +75,8 @@ https://codepen.io/rasel1
 [youtube]: https://youtube.com/rasel-code-dev
 [instagram]: https://instagram.com/RaseL
 [linkedin]: https://linkedin.com/in/rasel-code-dev
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+[webdevplaylist]: ""
+[jsplaylist]: ""
+[cssplaylist]: ""
+[reactplaylist]: ""
 
