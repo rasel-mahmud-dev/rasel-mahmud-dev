@@ -67,8 +67,24 @@ https://codepen.io/rasel1
 
 ---
 
+### <h2 align="center">Contribution Graph📚</h2>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=[profile_name]&theme=dracula&hide_border=true)
+
+## Stats summary📈
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=[profile_name]&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="larymak" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="larymak" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[profile_name]&theme=highcontrast&hide_border=true" alt="larymak" />
+</p>
+ 
+### <h2 align="center">Visitor Count</h2>
+ <p align="center"> 
+ <img src="https://profile-counter.glitch.me/{[profile_name]}/count.svg" alt="larymak" />
+</p>
 
 <!-- This like variable -->
+[profile_name]: "rasel-mahmud-dev"
 [website]: https://rasel-portfolio.vercel.app
 [course]: ""
 [twitter]: https://twitter.com/rase-code-dev
