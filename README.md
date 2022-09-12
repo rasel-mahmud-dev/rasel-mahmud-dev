@@ -83,10 +83,7 @@ https://codepen.io/rasel1
 
 </p>
  
-### <h2 align="center">Visitor Count</h2>
- <p align="center"> 
- <img src="https://profile-counter.glitch.me/{rasel-mahmud-dev}/count.svg" alt="rasel mahmdu dev" />
-</p>
+
 
 <!-- This like variable -->
 [profile_name]: "rasel-mahmud-dev"
