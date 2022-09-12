@@ -70,17 +70,22 @@ https://codepen.io/rasel1
 ### <h2 align="center">Contribution Graph📚</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rasel-mahmud-dev&theme=dracula&hide_border=true)
 
-## Stats summary📈
+
+### <h2 align="center">Stats summary📈</h2>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-mahmud-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="larymak" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="larymak" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-mahmud-dev&theme=highcontrast&hide_border=true" alt="larymak" />
+ 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-mahmud-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="rasel mahmdu dev" /> 
+
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rasel-mahmud-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="rasel-mahmud-dev" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-mahmud-dev&theme=highcontrast&hide_border=true" alt="rasel-mahmud-dev" />
+</p>
+
 </p>
  
 ### <h2 align="center">Visitor Count</h2>
  <p align="center"> 
- <img src="https://profile-counter.glitch.me/{rasel-mahmud-dev}/count.svg" alt="larymak" />
+ <img src="https://profile-counter.glitch.me/{rasel-mahmud-dev}/count.svg" alt="rasel mahmdu dev" />
 </p>
 
 <!-- This like variable -->
