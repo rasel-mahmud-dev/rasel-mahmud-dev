@@ -2,9 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=RaseL.com&style=for-the-badge&url=https%3A%2F%2FRaseL.com)](https://rasel-code-dev.vercel.app)
 
-
 - 👋 Hi, I’m @rasel-mahmud-dev
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
 <!---
@@ -23,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ### small code snippet and project
-https://codepen.io/rasel1
+https://codepen.io/rasel-mahmud-dev
 [<img align="left" alt="CODEPEN" width="26px" src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />][webdevplaylist]
 <br />
 
