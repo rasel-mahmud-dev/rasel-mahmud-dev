@@ -57,11 +57,15 @@ https://codepen.io/rasel-mahmud-dev
 <!-- BLOG-POST-LIST:END -->
 
 
-➡️ [JavaScript Primitive vs. Reference Values](https://javascript-refresh.vercel.app/javaScript-primitive-vs-reference-values)
+➡️ [কিভাবে রিয়াক্ট এর Context API, useReducer, Custom Hooks দ্বারা Redux এর মতো state ম্যানেজ করতে পারি](https://rasel-portfolio.vercel.app/blogs/%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%B0-Context-API-useReducer-Custom-Hooks-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A6%BE-Redux-%E0%A6%8F%E0%A6%B0-%E0%A6%AE%E0%A6%A4%E0%A7%8B-state-%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%BF)
+<br />
+➡️ [Authentication System Node.js App using Passport.js, and MongoDB Google Login](https://rasel-portfolio.vercel.app/blogs/authentication-system-nodejs-app-using-passportjs-and-mongodb-google-login)
 <br />
 ➡️ [What is Go](https://javascript-refresh.vercel.app/golang/what-is-go)
 <br />
-➡️ [more blog posts...](https://javascript-refresh.vercel.app)
+➡️ [Automatic Batching in react v18 new feature](https://rasel-portfolio.vercel.app/blogs/react-automatic-batching-in-react-v18)
+<br />
+➡️ [more blog posts...](https://rasel-portfolio.vercel.app/blogs)
 
 ---
 
