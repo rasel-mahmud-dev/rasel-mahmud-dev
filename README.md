@@ -82,15 +82,8 @@ https://codepen.io/rasel-mahmud-dev
 
 
 <!-- This like variable -->
-[profile_name]: "rasel-mahmud-dev"
 [website]: https://rasel-portfolio.vercel.app
-[course]: ""
-[twitter]: https://twitter.com/rase-code-dev
-[youtube]: https://youtube.com/rasel-code-dev
-[instagram]: https://instagram.com/RaseL
-[linkedin]: https://linkedin.com/in/rasel-code-dev
-[webdevplaylist]: ""
-[jsplaylist]: ""
-[cssplaylist]: ""
-[reactplaylist]: ""
+[instagram]: https://instagram.com/rasel-mahmud-dev
+[linkedin]: https://linkedin.com/in/rasel-mahmud-dev
+
 
