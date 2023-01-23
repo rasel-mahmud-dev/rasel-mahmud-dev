@@ -1,9 +1,5 @@
-### Hi there, I'm Rasel Mahmud [portfolio][website] 👋
+![](assets/github-header-image(1).png)
 
-[![Website](https://img.shields.io/website?label=RaseL.com&style=for-the-badge&url=https%3A%2F%2FRaseL.com)](https://rasel-code-dev.vercel.app)
-
-- 👋 Hi, I’m @rasel-mahmud-dev
-- 💞️ I’m looking to collaborate on ...
 
 <!---
 rasel-mahmud-dev/rasel-mahmud-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
