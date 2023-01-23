@@ -18,18 +18,16 @@ https://codepen.io/rasel-mahmud-dev
 ### Languages and Tools:
 
 
+<img align="start" width="30" src="./assets/js.svg"  alt=""/>
+<img align="start" width="30" src="./assets/ts.svg"  alt=""/>
+<img align="start" width="30" src="./assets/react.svg"  alt=""/>
+<img align="start" width="30" src="./assets/Nextjs-logo.svg"  alt=""/>
+<img align="start" width="30" src="./assets/redux.svg"  alt=""/>
+<img align="start" width="30" src="./assets/scss.svg"  alt=""/>
+<img align="start" width="30" src="./assets/tailwindcss.png"  alt=""/>
+<img align="start" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt=""/>
+<img align="start" width="30" src="./assets/mongodb-icon.svg"  alt=""/>
 
-
-
-<img align="middle" width="30" src="./assets/js.svg"  alt=""/>
-<img align="middle" width="30" src="./assets/ts.svg"  alt=""/>
-<img align="middle" width="30" src="./assets/react.svg"  alt=""/>
-<img align="middle" width="30" src="./assets/Nextjs-logo.svg"  alt=""/>
-<img align="middle" width="30" src="./assets/redux.svg"  alt=""/>
-<img align="middle" width="30" src="./assets/scss.svg"  alt=""/>
-<img align="middle" width="30" src="./assets/tailwindcss.png"  alt=""/>
-<img align="middle" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt=""/>
-<img align="middle" width="30" src="./assets/mongodb-icon.svg"  alt=""/>
 
 <br />
 <br />
