@@ -1,4 +1,4 @@
-![](assets/github-header-image(1).png)
+![](assets/github-header-image.png)
 
 
 <!---
