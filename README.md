@@ -18,7 +18,7 @@ https://codepen.io/rasel-mahmud-dev
 ### Languages and Tools:
 
 
-<img align="left" width="30" src="./assets/js.svg"  alt=""/>
+<img  align="left" width="30" src="./assets/js.svg"  alt=""/>
 <img align="left" width="30" src="./assets/ts.svg"  alt=""/>
 <img align="left" width="30" src="./assets/react.svg"  alt=""/>
 <img align="left" width="30" src="./assets/Nextjs-logo.svg"  alt=""/>
@@ -54,8 +54,8 @@ https://codepen.io/rasel-mahmud-dev
 ---
 
 ### Contribution Graph📚
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rasel-mahmud-dev&theme=dracula&hide_border=true)
 
+[![Rasel mahmud's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rasel-mahmud-dev&theme=xcode)](https://github.com/rasel-mahmud-dev/github-readme-activity-graph)
 
 ### Stats summary📈
 
