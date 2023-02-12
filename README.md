@@ -7,32 +7,32 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+---
+### 📕 Languages and Tools:
 
-
-### small code snippet and project
-
-<a href="https://codepen.io/rasel-mahmud-dev"><img src="./assets/codepen.webp"></a>
-<a href="https://stackblitz.com/@rasel-mahmud-dev"><img src="./assets/stackblitz.webp"></a>
-<a href="https://codesandbox.io/u/rasel.mahmud.dev"><img src="./assets/csb-ios.svg"></a>
-
-
-### Languages and Tools:
-
-
-<img  align="left" width="30" src="./assets/js.svg"  alt=""/>
-<img align="left" width="30" src="./assets/ts.svg"  alt=""/>
-<img align="left" width="30" src="./assets/react.svg"  alt=""/>
-<img align="left" width="30" src="./assets/Nextjs-logo.svg"  alt=""/>
-<img align="left" width="30" src="./assets/redux.svg"  alt=""/>
-<img align="left" width="30" src="./assets/scss.svg"  alt=""/>
-<img align="left" width="30" src="./assets/tailwindcss.png"  alt=""/>
-<img align="left" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt=""/>
-<img align="left" width="30" src="./assets/mongodb-icon.svg"  alt=""/>
+<img width="40px" src="./assets/js.svg"  alt=""/>
+<img width="40px" src="./assets/ts.svg"  alt=""/>
+<img width="40px" src="./assets/react.svg"  alt=""/>
+<img width="40px" src="./assets/Nextjs-logo.svg"  alt=""/>
+<img width="40px" src="./assets/redux.svg"  alt=""/>
+<img width="40px" src="./assets/scss.svg"  alt=""/>
+<img width="40px" src="./assets/tailwindcss-l.webp"  alt=""/>
+<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt=""/>
+<img width="40px" src="./assets/mongodb-icon.svg"  alt=""/>
 
 
 <br />
 <br />
 
+
+---
+
+
+### 📕 Random Small code snippet and projects
+
+<a href="https://codepen.io/rasel-mahmud-dev"><img width="50px" src="./assets/codepen.webp"></a>
+<a href="https://stackblitz.com/@rasel-mahmud-dev"><img width="50px" src="./assets/stackblitz.webp"></a>
+<a href="https://codesandbox.io/u/rasel.mahmud.dev"><img width="50px" src="./assets/csb-ios.svg"></a>
 
 ---
 
@@ -51,6 +51,13 @@ You can click the Preview link to take a look at your changes.
 ➡️ [Automatic Batching in react v18 new feature](https://rasel-portfolio.vercel.app/blogs/react-automatic-batching-in-react-v18)
 <br />
 ➡️ [more blog posts...](https://rasel-portfolio.vercel.app/blogs)
+
+---
+
+### 📕 Npm Packages
+
+<a href="https://www.npmjs.com/package/rasel-react-table"><img width="200px" src="https://camo.githubusercontent.com/6dd649a6b1daa1bf329fec7d590a50ebc1c207d4765fdbed5b697a7b5c8c6111/68747470733a2f2f6e6f6465692e636f2f6e706d2f726173656c2d72656163742d7461626c652e706e673f646f776e6c6f6164733d74727565"/></a>
+
 
 ---
 
