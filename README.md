@@ -8,42 +8,21 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-### 📕 Languages and Tools:
-
-[//]: # (<span><img width="40px" src="./assets/js.svg"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="./assets/ts.svg"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="./assets/react.svg"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="./assets/Nextjs-logo.svg"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="./assets/redux.svg"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="./assets/scss.svg"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="./assets/tailwindcss-l.webp"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt=""/></span>)
-
-[//]: # (<span><img width="40px" src="./assets/mongodb-icon.svg"  alt=""/></span>)
-
-
-
+### 📕 Skills
+### Language and Framework
 <img src="./assets/2023-02-12_144858copy.webp" />
+<img src="./assets/skills-2.webp" />
 
-<br />
-<br />
+### Tools
+<img src="./assets/tools.webp" />
 
- 
 ---
-
 
 ### 📕 Random Small code snippet and projects
 
-<a href="https://codepen.io/rasel-mahmud-dev"><img width="50px" src="./assets/codepen.webp"></a>
-<a href="https://stackblitz.com/@rasel-mahmud-dev"><img width="50px" src="./assets/stackblitz.webp"></a>
-<a href="https://codesandbox.io/u/rasel.mahmud.dev"><img width="50px" src="./assets/csb-ios.svg"></a>
+<a href="https://codepen.io/rasel-mahmud-dev"><img width="40px" src="./assets/codepen.webp"></a>
+<a href="https://stackblitz.com/@rasel-mahmud-dev"><img width="40px" src="./assets/stackblitz.webp"></a>
+<a href="https://codesandbox.io/u/rasel.mahmud.dev"><img width="40px" src="./assets/csb-ios.svg"></a>
 
 ---
 
