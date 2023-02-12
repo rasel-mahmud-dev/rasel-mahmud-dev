@@ -10,15 +10,15 @@ You can click the Preview link to take a look at your changes.
 ---
 ### 📕 Languages and Tools:
 
-<img width="40px" src="./assets/js.svg"  alt=""/>
-<img width="40px" src="./assets/ts.svg"  alt=""/>
-<img width="40px" src="./assets/react.svg"  alt=""/>
-<img width="40px" src="./assets/Nextjs-logo.svg"  alt=""/>
-<img width="40px" src="./assets/redux.svg"  alt=""/>
-<img width="40px" src="./assets/scss.svg"  alt=""/>
-<img width="40px" src="./assets/tailwindcss-l.webp"  alt=""/>
-<img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt=""/>
-<img width="40px" src="./assets/mongodb-icon.svg"  alt=""/>
+<span><img width="40px" src="./assets/js.svg"  alt=""/></span>
+<span><img width="40px" src="./assets/ts.svg"  alt=""/></span>
+<span><img width="40px" src="./assets/react.svg"  alt=""/></span>
+<span><img width="40px" src="./assets/Nextjs-logo.svg"  alt=""/></span>
+<span><img width="40px" src="./assets/redux.svg"  alt=""/></span>
+<span><img width="40px" src="./assets/scss.svg"  alt=""/></span>
+<span><img width="40px" src="./assets/tailwindcss-l.webp"  alt=""/></span>
+<span><img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"  alt=""/></span>
+<span><img width="40px" src="./assets/mongodb-icon.svg"  alt=""/></span>
 
 
 <br />
