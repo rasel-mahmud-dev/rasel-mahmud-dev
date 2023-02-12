@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="./assets/Group.svg" />
+<img src="./assets/2023-02-12_144858copy.webp" />
 
 <br />
 <br />
