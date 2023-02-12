@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ### small code snippet and project
-https://codepen.io/rasel-mahmud-dev
-[<img align="left" alt="CODEPEN" width="26px" src="https://cpwebassets.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />][webdevplaylist]
-<br />
+
+<a href="https://codepen.io/rasel-mahmud-dev"><img src="./assets/codepen.webp"></a>
+<a href="https://stackblitz.com/@rasel-mahmud-dev"><img src="./assets/stackblitz.webp"></a>
+<a href="https://codesandbox.io/u/rasel.mahmud.dev"><img src="./assets/csb-ios.svg"></a>
 
 
 ### Languages and Tools:
