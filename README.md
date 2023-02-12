@@ -9,11 +9,14 @@ You can click the Preview link to take a look at your changes.
 ---
 ### 📕 Skills
 ### Language and Framework
-<img src="./assets/2023-02-12_144858copy.webp" />
-<img src="./assets/skills-2.webp" />
+![2023-02-12_152232](./assets/2023-02-12_152232copy.webp)
+![2023-02-12_152232](./assets/2023-02-12_152251copy.webp)
 
 ### Tools
-<img src="./assets/tools.webp" />
+
+![2023-02-12_152232](./assets/2023-02-12_152307copy.webp)
+
+
 
 ---
 
