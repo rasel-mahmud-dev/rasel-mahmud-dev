@@ -59,18 +59,18 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Stats summary📈
-
+<div align="center" >
   <div >
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api?username=rasel-mahmud-dev&show_icons=true&locale=en&hide_border=true" alt="rasel-mahmud-dev" />
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-mahmud-dev&hide_border=true" alt="rasel-mahmud-dev" />
+  <img width="47%"  src="https://github-readme-stats.vercel.app/api?username=rasel-mahmud-dev&show_icons=true&locale=en&hide_border=true" alt="rasel-mahmud-dev" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-mahmud-dev&hide_border=true" alt="rasel-mahmud-dev" />
 
 
   </div>
 
   
-<img  width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-mahmud-dev&layout=compact&langs_count=12" />
+<img  width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-mahmud-dev&layout=compact&langs_count=12" />
 
-
+  </div>
 
 
 
