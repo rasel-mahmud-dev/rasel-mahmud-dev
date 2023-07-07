@@ -6,6 +6,10 @@ rasel-mahmud-dev/rasel-mahmud-dev is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+
+<p><a href="https://rasel-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%231DA1F2.svg?&style=for-the-badge&bgColor=#ff0000" height=25></a> <a href="https://rasel-portfolio.vercel.app"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://linkedin.com/in/rasel-mahmud-dev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>   <a href="https://dev.to/raselmahmuddev"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+
+
 ---
 ### 📕 Skills
 ### Language and Framework
@@ -53,44 +57,20 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Contribution Graph📚
-
-[![Rasel mahmud's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rasel-mahmud-dev)](https://github.com/rasel-mahmud-dev/github-readme-activity-graph)
 
 ### Stats summary📈
 
-<p align="center">
- 
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-mahmud-dev&show_itext_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="rasel mahmdu dev" /> 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasel-mahmud-dev&show_icons=true&locale=en&hide_border=true" alt="rasel-mahmud-dev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-mahmud-dev&hide_border=true" alt="rasel-mahmud-dev" />
+</div>
 
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rasel-mahmud-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="rasel-mahmud-dev" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-mahmud-dev&theme=highcontrast&hide_border=true" alt="rasel-mahmud-dev" />
+<div align="center" style="margin-top: 13px">
+  <a href="https://github.com/rasel-mahmud-dev/github-readme-stats">
+    <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-mahmud-dev&layout=compact&langs_count=15" />
+  </a>
+    
+</div>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-mahmud-dev&layout=compact)](https://github.com/rasel-mahmud-dev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-mahmud-dev&layout=compact&langs_count=20)](https://github.com/rasel-mahmud-dev/github-readme-stats)
-
-
-
-
-### Connect with me
-
-[<img align="left" alt="RaseL.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RaseL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RaseL | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-
-
-<br />
- 
-
-
-<!-- This like variable -->
-[website]: https://rasel-portfolio.vercel.app
-[instagram]: https://instagram.com/rasel-mahmud-dev
-[linkedin]: https://linkedin.com/in/rasel-mahmud-dev
 
 
