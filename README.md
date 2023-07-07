@@ -55,16 +55,23 @@ You can click the Preview link to take a look at your changes.
 
 ### Contribution Graph📚
 
-[![Rasel mahmud's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rasel-mahmud-dev&theme=xcode)](https://github.com/rasel-mahmud-dev/github-readme-activity-graph)
+[![Rasel mahmud's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rasel-mahmud-dev)](https://github.com/rasel-mahmud-dev/github-readme-activity-graph)
 
 ### Stats summary📈
 
 <p align="center">
  
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-mahmud-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="rasel mahmdu dev" /> 
+ <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasel-mahmud-dev&show_itext_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="rasel mahmdu dev" /> 
 
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rasel-mahmud-dev&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="rasel-mahmud-dev" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rasel-mahmud-dev&theme=highcontrast&hide_border=true" alt="rasel-mahmud-dev" />
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-mahmud-dev&layout=compact)](https://github.com/rasel-mahmud-dev/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasel-mahmud-dev&layout=compact&langs_count=20)](https://github.com/rasel-mahmud-dev/github-readme-stats)
+
 
 
 
