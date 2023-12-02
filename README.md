@@ -51,9 +51,9 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 📕 Npm Packages
-
-<a href="https://www.npmjs.com/package/rasel-react-table"><img width="200px" src="https://camo.githubusercontent.com/6dd649a6b1daa1bf329fec7d590a50ebc1c207d4765fdbed5b697a7b5c8c6111/68747470733a2f2f6e6f6465692e636f2f6e706d2f726173656c2d72656163742d7461626c652e706e673f646f776e6c6f6164733d74727565"/></a>
-
+[![NPM](https://nodei.co/npm/rasel-react-table.png?downloads=true)](https://nodei.co/npm/rasel-react-table/)
+[![NPM](https://nodei.co/npm/rsl-pagination.png?downloads=true)](https://nodei.co/npm/rsl-pagination/)
+[![NPM](https://nodei.co/npm/rsl-redux.png?downloads=true)](https://nodei.co/npm/rsl-redux/)
 
 ---
 
